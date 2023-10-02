@@ -1,0 +1,4 @@
+Forking and pull requests: This is the most common way to collaborate on GitHub. When you fork a repository, you create a copy of it in your own account. You can then make changes to the repository and submit a pull request to the original repository owner. The pull request owner can then review your changes and merge them into the original repository.
+
+
+Branches: Branches allow you to work on multiple changes to a repository at the same time without affecting the main branch. You can create a new branch for each feature or bug fix that you are working on. Once you are finished with your changes, you can merge the branch back into the main branch.
